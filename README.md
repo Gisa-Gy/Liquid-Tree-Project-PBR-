@@ -23,7 +23,7 @@ air purification, and urban sustainability.
 └── README.md        # Project documentation
 
 ## 👤 Author
-**Yasir GISA** — GIS Specialist | Esri Rwanda Ltd  
+**MR. GISA Yasir** — GIS Specialist | Esri Rwanda Ltd  
 📍 Kigali, Rwanda
 
 ## 📄 License
